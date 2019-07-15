@@ -38,6 +38,12 @@ Além disso vamos entrar em algumas questões sobre `Node.js`, `Promises`, `Asyn
 
 Transmissão ao vivo na [Twitch.tv](https://twitch.tv/fisune)
 
+## Quando começa?
+
+Dia **15/07/2019** as **20:00** (Horário de Brasília) e vai até **23:00**
+
+> Provavelmente não vamos conseguir concluir tudo apenas nessa primeira transmissão, mas vamos tentar ao máximo!
+
 ## Muito Importante!
 
 Isso **não é um curso** e **não sou um professor**! Isso é apenas uma contribução para a comunidade de desenvolvimento e tenho certeza que também irei aprender algo junto com vocês. **Combinado? Tenham sempre isso em mente**.
