@@ -34,6 +34,8 @@ Além disso vamos entrar em algumas questões sobre `Node.js`, `Promises`, `Asyn
 
 #### 2. Fazer [download](https://drive.google.com/file/d/1a9uXIaFaPp7doRNF84JSO-wHZJvyJ3fv/view?usp=sharing) do material que será utilizado para criação do jogo.
 
+#### 3. Instalar o [VS Code](https://code.visualstudio.com) na sua máquina
+
 ## Onde será?
 
 Transmissão ao vivo na [Twitch.tv](https://twitch.tv/fisune)
